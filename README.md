@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**circular-code/circular-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋 Hi, I'm Stephanos Malikotsinas
+💻 A passionate Digital Communication Professional from Barcelona, Spain
+🔭 I work at Code Sherpas as Head of Digital Communications.
+❤️ I love to research, write content, design wireframes and prototypes, to build websites and web applications and promote them.
+💎 Experienced in Digital Communication (Online Marketing, SEO,Content Management & Journalism), UX/UI Design & Frontend Dev.
+:octocat: Always open to collaborate with digital content creators.
+💻 Contact me on:
+dianavile | MediumLinkedindianavile | CodeSandboxdianavile | Dribble
 
-Here are some ideas to get you started:
+Languages and Tools:
+figma html5 css3 bootstrap sass babel javascript jasmine react git nodejs mysql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software & Technologies:
+Visual Studio Code
+
+Git
+
+GitHub
+
+Terminal
+
+Stats:
+Diana's GitHub stats Top Languages
