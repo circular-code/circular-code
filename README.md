@@ -1,5 +1,5 @@
-<h1 align="center">🙋 Hi, I'm Diana Vilé</h1>
-<h3 align="center">💻 A passionate Digital Communication Professional from Barcelona, Spain</h3>
+<h1 align="center">🙋 Hi, I'm Stephanos Malikotsinas</h1>
+<h3 align="center">💻 A passionate Web Developer and Web Enthusiast by <3 from Stuttgart, Germany</h3>
 
 - 🔭 I work at <a href="https://www.code-sherpas.rocks/" target="_blank">Code Sherpas</a> as Head of Digital Communications.
 - :heart: I love to research, write content, design wireframes and prototypes, to build websites and web applications and promote them.
