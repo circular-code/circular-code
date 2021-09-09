@@ -3,12 +3,12 @@
 
 - 🔭 I work at <a href="https://www.ctrl-s.de/" target="_blank">ctrl-s</a> as Web Developer.
 - :heart: I love to design and build websites and web applications.
-- :gem: Experienced in Frontend/Backend Dev and UX/UI Design.
+- :gem: Experienced in Frontend/Backend WebDev and UX/UI Design.
 - :octocat: Always open to collaborate with others.
 
-### :computer: Contact me on: 
+<!--### :computer: Contact me on: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianavile/) 
-<a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a><a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a> 
+<a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a><a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a> -->
 
 ### Languages and Tools:
 <p align="left"> 
