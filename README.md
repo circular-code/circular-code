@@ -1,13 +1,12 @@
-<h1 align="center">:person_fencing: Hi, I'm Stephanos Malikotsinas</h1>
+<h1 align="center">:raising_hand_man: Hi, I'm Stephanos Malikotsinas</h1>
 <h3 align="center">💻 A passionate Web Developer and Web Enthusiast by <3 from Stuttgart, Germany</h3>
 
-- 🔭 I work at <a href="https://www.code-sherpas.rocks/" target="_blank">Code Sherpas</a> as Head of Digital Communications.
-- :heart: I love to research, write content, design wireframes and prototypes, to build websites and web applications and promote them.
-- :gem: Experienced in Digital Communication (Online Marketing, SEO,Content Management & Journalism), UX/UI Design & Frontend Dev.
-- :octocat: Always open to collaborate with digital content creators.
+- 🔭 I work at <a href="https://www.ctrl-s.de/" target="_blank">ctrl-s</a> as Web Developer.
+- :heart: I love to design and build websites and web applications.
+- :gem: Experienced in Frontend/Backend Dev and UX/UI Design.
+- :octocat: Always open to collaborate with others.
 
 ### :computer: Contact me on: 
- <a href="https://diana-vile.medium.com/" target="_blank"> <img align="left" alt="dianavile | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianavile/) 
 <a href="https://codesandbox.io/u/dianavile" target="_blank"><img align="left" alt="dianavile | CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a><a href="https://dribbble.com/dianavile" target="_blank"><img align="left" alt="dianavile | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a> 
 
