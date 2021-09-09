@@ -33,5 +33,5 @@
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ### Stats:
-![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=circular-code&show_icons=true&theme=default)
+![Steph's GitHub stats](https://github-readme-stats.vercel.app/api?username=circular-code&show_icons=true&theme=default)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=circular-code&layout=compact)](https://github.com/circular-code/github-readme-stats)
