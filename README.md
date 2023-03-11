@@ -37,4 +37,5 @@
  
 ### Stats:
 ![Steph's GitHub stats](https://github-readme-stats.vercel.app/api?username=circular-code&show_icons=true&theme=default)
+ <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=circular-code&layout=compact)](https://github.com/circular-code/github-readme-stats)
